@@ -2,5 +2,5 @@ class Dog
 end
 
 larry = Dog.new
-kenny = Dog.new
+lova = Dog.new
 bella = Dog.new
