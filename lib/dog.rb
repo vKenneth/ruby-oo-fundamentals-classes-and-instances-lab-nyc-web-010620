@@ -1,3 +1,4 @@
 class Dog 
 end
-larry 
+larry Dog.new
+kenny 
